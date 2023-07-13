@@ -11,8 +11,9 @@ body {
 
 body.modo-escuro {
     background-image: url(../imagens/akumabackground.png);
+    background-position: 100%;
+    background-size: cover;
     color: #f5f5f5;
-    background-position: 90%;
 }
 
 header {
