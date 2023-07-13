@@ -5,7 +5,7 @@ body {
     background-image: url(/src/imagens/ryubackground.jpg);
     background-attachment: fixed;
     background-size: cover;
-    color:black;
+    color: black;
 }
 
 body.modo-escuro {
